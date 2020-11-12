@@ -37,11 +37,6 @@ body{
 }
 
 .identifier2{
-    /* position: relative;
-    width: fit-content;
-    height: fit-content;
-    bottom: 750px;
-    left: 260px; */
     width: calc(100%-250px);
 }
 
