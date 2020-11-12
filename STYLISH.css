@@ -202,7 +202,7 @@ hr.garis1{
 }
 
 .title3{
-    margin-top: 50px;
+    margin-top: 20px;
     text-decoration: underline;
 }
 
@@ -218,6 +218,16 @@ hr.garis1{
 }
 
 .title4{
-    margin-top: 50px;
+    margin-top: 20px;
     text-decoration: underline;
+}
+
+.text_Achiev{
+    margin-top: 15px;
+    font-size: 17px;
+    margin-left: 45px;
+    line-height: 25px;
+}
+.text_Achiev li{
+    list-style-type: disc;
 }
